@@ -1,2 +1,2 @@
 # Accelerometer
- Code for accelerometer 
+ 1- In this repository you can find a 
